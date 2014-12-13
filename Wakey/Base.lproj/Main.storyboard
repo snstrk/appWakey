@@ -40,7 +40,7 @@
                                     <segue destination="ae8-Dj-rsF" kind="show" id="X8P-ox-PTE"/>
                                 </connections>
                             </button>
-                            <datePicker contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="time" minuteInterval="1" useCurrentDate="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bEl-82-IQw">
+                            <datePicker contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="countDownTimer" minuteInterval="5" useCurrentDate="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bEl-82-IQw">
                                 <rect key="frame" x="0.0" y="155" width="600" height="162"/>
                                 <date key="date" timeIntervalSinceReferenceDate="440112000.92249101">
                                     <!--2014-12-12 21:20:00 +0000-->
